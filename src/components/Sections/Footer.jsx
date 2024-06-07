@@ -38,7 +38,7 @@ export default function Contact() {
       </div>
       <BottomFooter>
     
-      <div className=""><h4>📧 hello@propertymaintenancemanchester.co.uk</h4></div>
+      <div className="contact-info"><h4>📧 hello@propertymaintenancemanchester.co.uk</h4></div>
         <div><h4>📞 0161 821 0108</h4></div>
         
     
@@ -58,7 +58,19 @@ justify-content: space-between;
 color:black;
 font-weight:semi-bold;
 padding: 1.5rem;
-`
+
+
+@media (max-width: 600px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+`;
+
 const InnerWrapper = styled.div`
   @media (max-width: 550px) {
     flex-direction: column;
