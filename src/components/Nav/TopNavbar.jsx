@@ -23,7 +23,7 @@ export default function TopNavbar() {
   return (
     <>
     <ContactInfoSmallScreen>
-        <a href="mailto:hello@bristolpropertymaintenance.co.uk">📧 hello@propertymaintenancemanchester.co.uk</a>
+        <a href="mailto:hello@propertymaintenancemanchester.co.uk">📧 hello@propertymaintenancemanchester.co.uk</a>
         <a href="tel:03333606113">📞 0333 360 6113</a>
       </ContactInfoSmallScreen>
       <Sidebar sidebarOpen={sidebarOpen} toggleSidebar={toggleSidebar} />
