@@ -6,39 +6,27 @@ export default function Locations() {
 
     <h2 style={{color: 'black', fontSize: '32px;', textAlign:'center'}}>Locations</h2>
 <LocationsWrapper>
-    <div>
-        Bristol
-    </div>
-    <div>
-        Bath
-    </div>
-    <div>
-        Glastonbury
-    </div>
-    <div>
-        Salisbury
-    </div>
-    
-    <div>Bradford-on-Avon</div>
-<div>Keynsham</div>
-<div>Radstock</div>
-<div>Corsham</div>
-<div>Chippenham</div>
-<div>Trowbridge</div>
-<div>Melksham</div>
-<div>Frome</div>
-<div>Warminster</div>
-<div>Midsomer Norton</div>
-<div>Westbury</div>
-<div>Calne</div>
-<div>Devizes</div>
-<div>Shepton Mallet</div>
-<div>Wells</div>
-<div>Bruton</div>
-<div>Peasedown St John</div>
-<div>Paulton</div>
-<div>Wellow</div>
-<div>Norton St Philip</div>
+<div>Salford</div>
+<div>Stockport</div>
+<div>Bolton</div>
+<div>Rochdale</div>
+<div>Bury</div>
+<div>Oldham</div>
+<div>Tameside</div>
+<div>Wigan</div>
+<div>Altrincham</div>
+<div>Sale</div>
+<div>Ashton-under-Lyne</div>
+<div>Stretford</div>
+<div>Eccles</div>
+<div>Urmston</div>
+<div>Middleton</div>
+<div>Radcliffe</div>
+<div>Leigh</div>
+<div>Denton</div>
+<div>Cheadle</div>
+<div>Hyde</div>
+
 
 
     </LocationsWrapper>
