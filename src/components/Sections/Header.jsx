@@ -15,7 +15,7 @@ export default function Header() {
       <LeftSide className="flexCenter">
         <div>
         <HeadingTag>
-            Property maintenance specialists covering Manchester, Liverpool & surrouding areas.
+            Property maintenance specialists covering Manchester, Liverpool & surrounding areas.
           </HeadingTag>
           <h1 className="extraBold font60">We are a Property Maintenance Company.</h1>
           
@@ -109,6 +109,7 @@ const HeadingTag = styled.div`
   display: none;
   @media (max-width: 960px) {
     display: block;
+    opacity:100%;s
     color:white;
     text-transform:uppercase;
     text-align: center;
@@ -125,6 +126,7 @@ const HeadingTag = styled.div`
    @media (max-width: 600px) {
     display: block;
     color:white;
+    opacity:100%;
     text-transform:uppercase;
     text-align: center;
     font-weight:700;
