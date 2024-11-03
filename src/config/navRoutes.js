@@ -46,7 +46,11 @@ const navRoutes = {
     'openshaw-property-maintenance': 'openshaw-property-maintenance',
     'rusholme-property-maintenance': 'rusholme-property-maintenance',
     'stretford-property-maintenance': 'stretford-property-maintenance',
-    'whalley-range-property-maintenance': 'whalley-range-property-maintenance'
+    'whalley-range-property-maintenance': 'whalley-range-property-maintenance',
+    'salford-handyman': 'salford-handyman',
+    'chorlton-handyman': 'chorlton-handyman',
+    'manchester-city-centre-handyman': 'manchester-city-centre-handyman'
+    
 };
 
 module.exports = navRoutes;
