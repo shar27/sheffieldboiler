@@ -24,7 +24,7 @@ export default function Contact() {
               © {getCurrentYear()} - <span className="purpleColor font13">Property Maintenance Liverpool</span> All Right Reserved
             </StyleP> */}
             <StyleP className="whiteColor font13">
-             <h6 className="whiteColor font13">Property Maintenance Manchester is a
+             <h6 className="whiteColor font13">Manchester Property Maintenance  is a
              trading name for <br/> SWIFT UK PROPERTY INVESTMENTS LTD. <br/>
              Company number: 15244665
              
