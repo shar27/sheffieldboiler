@@ -4,6 +4,7 @@ import styled from "styled-components";
 import FullButton from "../Buttons/FullButton";
 // Assets
 import HeaderImage from "../../assets/img/header-img.jpg";
+import Boiler from "../../assets/img/boiler.png";
 import QuotesIcon from "../../assets/svg/Quotes";
 import Dots from "../../assets/svg/Dots";
 
@@ -37,7 +38,7 @@ export default function Header() {
       </LeftSide>
       <RightSide>
         <ImageWrapper>
-          <Img className="radius8" src={HeaderImage} width="100%" alt="office" style={{zIndex: 9}} />
+          <Img className="radius8" src={Boiler} width="100%" alt="office" style={{zIndex: 9}} />
           <QuoteWrapper className="flexCenter darkBg radius8">
             <QuotesWrapper>
               <QuotesIcon />
