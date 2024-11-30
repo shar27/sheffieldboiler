@@ -61,6 +61,7 @@ export default function Contact() {
                 <label className="font13">Enquiry Type:</label>
                 <select required name="user_enquiry" className="font20 extraBold">
                   <option value="handyman">Handyman</option>
+                  <option value="electrician">Boiler services</option>
                   <option value="cleaning">Cleaning</option>
                   <option value="clearance">Clearance</option>
                   <option value="plumbing">Plumbing</option>
