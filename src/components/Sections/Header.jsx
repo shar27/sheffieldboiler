@@ -16,13 +16,13 @@ export default function Header() {
       <LeftSide className="flexCenter">
         <div>
         <HeadingTag>
-            Boiler Installation Services in Manchester.
+            Boiler Installation Services in Sheffield.
           </HeadingTag>
-          <h1 className="extraBold font60">Manchester Boiler Installation.</h1>
+          <h1 className="extraBold font60">Sheffield Boiler Installation.</h1>
           
           
           <HeaderP className="font13 semiBold">
-          Looking for reliable Boiler Installation services in Manchester, Liverpool & surrouding areas
+          Looking for reliable Boiler Installation services in Sheffield & surrouding areas
           Our experienced team offers comprehensive solutions for residential and commercial properties, 
           including building maintenance, repairs, and management. Trust us for efficient and affordable services tailored to landlords and property owners. 
           Contact us for emergency assistance and ensure your property's upkeep with our expert solutions.
